@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there 👋 , I'm [Mohit Dhule!](https://www.linkedin.com/in/mohitdhule/)
 
-<!--
-**mohit564/mohit564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a  href="https://www.linkedin.com/in/mohitdhule/">
+<img  align="left"  width="24px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"   /> 
+</a>
+<a  href="https://twitter.com/mohitdhule">
+<img  align="left"  width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />&nbsp;
+</a>
 
-Here are some ideas to get you started:
+<a  href="mailto:mohitmdhule@gmail.com">
+<img  align="left"  width="26px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### About Me 🚀
+
+- 🌱 I’m a Full stack developer with a bachelors degree in Computer Engineering. </br>
+
+- 👨‍💻 I am passionate about Web Dev & I enjoy learning new things. </br>
+
+- 📫 Reach out to me here 👇
+
+  - Linkedin - https://www.linkedin.com/in/mohitdhule
+
+  - Twitter - https://twitter.com/mohitdhule
+
+  - Gmail - [mohitmdhule@gmail.com](mailto:mohitmdhule@gmail.com)
